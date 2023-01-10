@@ -701,6 +701,7 @@ name = "prueba"
 version = "0.1.0"
 dependencies = [
  "graphul",
+ "serde_json",
  "tokio",
 ]
 
